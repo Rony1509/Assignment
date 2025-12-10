@@ -1,0 +1,24 @@
+{
+    "users": [
+        { "id": 1, "name": "Alice" },
+        { "id": 2, "name": "Bob" },
+        { "id": 3, "name": "Carol" }
+    ],
+    "news": [{
+            "id": 1,
+            "title": "Local Park Reopens After Renovation",
+            "body": "The central park has reopened after a three-month renovation. New walking paths, benches, and lighting have been installed to improve safety and accessibility for all visitors.",
+            "author_id": 1,
+            "comments": [
+                { "id": 1, "user_id": 2, "text": "Great to hear! The new benches look fantastic." }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Community Garden Seeks Volunteers",
+            "body": "The community garden on 5th street is looking for volunteers to help with winter planting and maintenance. Training will be provided for new volunteers.",
+            "author_id": 2,
+            "comments": []
+        }
+    ]
+}
