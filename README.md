@@ -44,3 +44,4 @@ Validation rules enforced on frontend:
 Notes
 - JSON-Server must run on port 3000 (the frontend points to http://localhost:3000).
 - This is a minimal educational app. No real authentication is used — login is simulated.
+# Assignment
